@@ -231,6 +231,10 @@ body{
     color: black;
 }
 
+.trailer_filmes{
+    margin-bottom: 30px;
+}
+
 .estreia_lancamento{
     margin-bottom: 5px;
     font-size: 15px;
