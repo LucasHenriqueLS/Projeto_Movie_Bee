@@ -100,8 +100,12 @@ body{
     border-radius: 4px;
 }
 
-.barraDePesquisa{
-    padding: 0px 0px 0px 10px!important;
+.barra_pesquisa{
+    padding: 0px !important;
+}
+
+.btn_pesquisa{
+    margin: 0px !important;
 }
   
 /* Menu Mobile */
